@@ -1,6 +1,6 @@
 # Test
 
-```kroki-plantuml format="svg" classes="uml myDiagram" alt="diagram placeholder" title="Libs"
+```kroki-plantuml
 skinparam ranksep 20
 skinparam dpi 125
 skinparam packageTitleAlignment left
