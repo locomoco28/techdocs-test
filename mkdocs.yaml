@@ -2,4 +2,5 @@ site_name: 'Test'
 
 plugins:
   - techdocs-core
-  - kroki
+  - kroki:
+      FencePrefix: ''
